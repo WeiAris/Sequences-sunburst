@@ -1,0 +1,528 @@
+{
+	"name": "flare",
+	"children": [
+		{
+			"name": "home",
+			"children": [
+				{
+					"name": "analytics",
+					"children": [
+						{
+							"name": "page_1",
+							"size": 3938
+						}, {
+							"name": "page_2",
+							"size": 3812
+						}, {
+							"name": "page_3",
+							"size": 6714
+						}, {
+							"name": "page_4",
+							"size": 743
+						}
+					]
+				}, {
+					"name": "hobboy",
+					"children": [
+						{
+							"name": "page_2",
+							"size": 3534
+						}, {
+							"name": "analytics",
+							"size": 5731
+						}, {
+							"name": "home",
+							"size": 7840
+						}, {
+							"name": "page_4",
+							"size": 5914
+						}, {
+							"name": "page_1",
+							"size": 3416
+						}
+					]
+				}, {
+					"name": "optimization",
+					"children": [
+						{
+							"name": "analytics",
+							"size": 7074
+						}
+					]
+				}
+			]
+		}, {
+			"name": "animate",
+			"children": [
+				{
+					"name": "home",
+					"size": 5842
+				}, {
+					"name": "page_3",
+					"children": [
+						{
+							"name": "page_4",
+							"size": 2047
+						}, {
+							"name": "optimization",
+							"size": 1375
+						}, {
+							"name": "page_1",
+							"size": 2202
+						}, {
+							"name": "page_2",
+							"size": 1629
+						}, {
+							"name": "page_3",
+							"size": 1675
+						}
+					]
+				}, {
+					"name": "page_2",
+					"size": 1041
+				}, {
+					"name": "optimization",
+					"size": 5176
+				}, {
+					"name": "Pause",
+					"size": 449
+				}, {
+					"name": "hobboy",
+					"size": 5593
+				}, {
+					"name": "analytics",
+					"size": 6006
+				}
+			]
+		}, {
+			"name": "optimization",
+			"children": [
+				{
+					"name": "hobboy",
+					"children": [
+						{
+							"name": "analytics",
+							"size": 721
+						}, {
+							"name": "page_3",
+							"size": 4294
+						}, {
+							"name": "page_1",
+							"size": 9800
+						}, {
+							"name": "page_4",
+							"size": 1314
+						}, {
+							"name": "home",
+							"size": 2220
+						}
+					]
+				}, {
+					"name": "analytics",
+					"size": 1759
+				}, {
+					"name": "page_1",
+					"size": 2165
+				}, {
+					"name": "page_2",
+					"size": 586
+				}, {
+					"name": "page_4",
+					"size": 3331
+				}, {
+					"name": "page_3",
+					"size": 772
+				}, {
+					"name": "Pause",
+					"size": 3322
+				}
+			]
+		}, {
+			"name": "page_2",
+			"children": [
+				{
+					"name": "page_1",
+					"size": 1027
+				}, {
+					"name": "hobboy",
+					"size": 3891
+				}, {
+					"name": "animate",
+					"size": 891
+				}, {
+					"name": "page_3",
+					"size": 2893
+				}, {
+					"name": "optimization",
+					"size": 5103
+				}, {
+					"name": "page_2",
+					"size": 3677
+				}, {
+					"name": "home",
+					"size": 781
+				}, {
+					"name": "Pause",
+					"size": 4141
+				}, {
+					"name": "page_4",
+					"size": 1214
+				}, {
+					"name": "analytics",
+					"children": [
+						{
+							"name": "hobboy",
+							"size": 593
+						},{
+							"name": "page_4",
+							"size": 2732
+						},{
+							"name": "page_1",
+							"size": 594
+						}, {
+							"name": "page_3",
+							"size": 460
+						}, {
+							"name": "home",
+							"size": 6030
+						}, {
+							"name": "optimization",
+							"size": 307
+						}, {
+							"name": "page_2",
+							"size": 772
+						}, {
+							"name": "Pause",
+							"size": 296
+						}, {
+							"name": "animate",
+							"size": 363
+						}
+					]
+				}, {
+					"name": "hobboy",
+					"size": 843
+				}, {
+					"name": "page_3",
+					"size": 13896
+				}, {
+					"name": "optimization",
+					"size": 1594
+				}, {
+					"name": "page_3",
+					"size": 4130
+				}, {
+					"name": "Pause",
+					"size": 791
+				}
+			]
+		}, {
+			"name": "page_4",
+			"children": [
+				{
+					"name": "page_1",
+					"size": 8258
+				}, {
+					"name": "home",
+					"size": 10001
+				}, {
+					"name": "optimization",
+					"size": 8217
+				}, {
+					"name": "Pause",
+					"size": 12555
+				}, {
+					"name": "analytics",
+					"children": [
+						{
+							"name": "page_3",
+							"size": 9354
+						}, {
+							"name": "home",
+							"size": 1233
+						}
+					]
+				}, {
+					"name": "hobboy",
+					"size": 335
+				}, {
+					"name": "page_1",
+					"children": [
+						{
+							"name": "hobboy",
+							"size": 3165
+						}, {
+							"name": "home",
+							"size": 2815
+						}, {
+							"name": "analytics",
+							"size": 3366
+						}
+					]
+				},{
+					"name": "page_3",
+					"children": [
+						{
+							"name": "home",
+							"size": 6367
+						}, {
+							"name": "optimization",
+							"size": 1229
+						}, {
+							"name": "animate",
+							"size": 2059
+						}, {
+							"name": "page_2",
+							"size": 2291
+						}
+					]
+				}, {
+					"name": "page_2",
+					"size": 5559
+				}, {
+					"name": "hobboy",
+					"size": 19118
+				}, {
+					"name": "page_4",
+					"size": 6887
+				}
+			]
+		}, {
+			"name": "Pause",
+			"children": [
+				{
+					"name": "page_1",
+					"children": [
+						{
+							"name": "analytics",
+							"size": 1302
+						}, {
+							"name": "page_2",
+							"size": 24593
+						}, {
+							"name": "home",
+							"size": 652
+						}, {
+							"name": "page_4",
+							"size": 636
+						}
+					]
+				}, {
+					"name": "home",
+					"children": [
+						{
+							"name": "optimization",
+							"size": 2138
+						}, {
+							"name": "page_3",
+							"size": 3824
+						}, {
+							"name": "page_1",
+							"size": 1353
+						}, {
+							"name": "page_2",
+							"size": 4665
+						}, {
+							"name": "Pause",
+							"size": 2649
+						}, {
+							"name": "page_4",
+							"size": 2832
+						}, {
+							"name": "analytics",
+							"size": 4896
+						}, {
+							"name": "hobboy",
+							"size": 763
+						}
+					]
+				}, {
+					"name": "analytics",
+					"children": [
+						{
+							"name": "page_2",
+							"size": 20544
+						}, {
+							"name": "page_1",
+							"size": 19788
+						}, {
+							"name": "page_4",
+							"size": 10349
+						}, {
+							"name": "optimization",
+							"size": 3301
+						}, {
+							"name": "Pause",
+							"size": 19382
+						}, {
+							"name": "hobboy",
+							"children": [
+								{
+									"name": "page_1",
+									"size": 698
+								}, {
+									"name": "page_3",
+									"size": 5569
+								}, {
+									"name": "page_4",
+									"size": 353
+								}
+							]
+						}, {
+							"name": "page_3",
+							"size": 11275
+						}, {
+							"name": "home",
+							"size": 7147
+						}, {
+							"name": "animate",
+							"size": 9930
+						}
+					]
+				}, {
+					"name": "page_3",
+					"children": [
+						{
+							"name": "page_1",
+							"size": 2313
+						}, {
+							"name": "home",
+							"size": 1880
+						}, {
+							"name": "Pause",
+							"size": 1701
+						}, {
+							"name": "analytics",
+							"size": 1117
+						}
+					]
+				}, {
+					"name": "page_2",
+					"children": [
+						{
+							"name": "home",
+							"size": 20859
+						}, {
+							"name": "hobboy",
+							"size": 4614
+						}, {
+							"name": "optimization",
+							"size": 10530
+						}
+					]
+				}, {
+					"name": "optimization",
+					"children": [
+						{
+							"name": "home",
+							"children": [
+								{
+									"name": "page_1",
+									"size": 4461
+								}, {
+									"name": "page_2",
+									"size": 6314
+								}, {
+									"name": "page_3",
+									"size": 3444
+								}
+							]
+						}, {
+							"name": "page_1",
+							"children": [
+								{
+									"name": "analytics",
+									"size": 3179
+								}, {
+									"name": "page_3",
+									"size": 4060
+								}, {
+									"name": "home",
+									"size": 4138
+								}, {
+									"name": "Pause",
+									"size": 1690
+								}
+							]
+						}, {
+							"name": "page_2",
+							"children": [
+								{
+									"name": "page_3",
+									"size": 5219
+								}, {
+									"name": "home",
+									"size": 3165
+								}, {
+									"name": "Pause",
+									"size": 3509
+								}
+							]
+						}, {
+							"name": "page_3",
+							"size": 1286
+						}, {
+							"name": "page_4",
+							"children": [
+								{
+									"name": "optimization",
+									"size": 9956
+								}, {
+									"name": "home",
+									"size": 3899
+								}, {
+									"name": "animate",
+									"size": 3202
+								}
+							]
+						}, {
+							"name": "analytics",
+							"children": [
+								{
+									"name": "page_1",
+									"size": 6725
+								}, {
+									"name": "page_4",
+									"size": 3727
+								}, {
+									"name": "page_2",
+									"size": 8411
+								}, {
+									"name": "page_3",
+									"size": 4864
+								}, {
+									"name": "hobboy",
+									"size": 3174
+								}, {
+									"name": "animate",
+									"size": 7881
+								}, {
+									"name": "optimization",
+									"size": 12870
+								}, {
+									"name": "Pause",
+									"size": 2728
+								}
+							]
+						}, {
+							"name": "hobboy",
+							"size": 2490
+						}, {
+							"name": "home",
+							"size": 5248
+						}, {
+							"name": "optimization",
+							"size": 4190
+						}, {
+							"name": "animate",
+							"size": 2581
+						}
+					]
+				}, {
+					"name": "animate",
+					"size": 16540
+				}
+			]
+		}
+	]
+}

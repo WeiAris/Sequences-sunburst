@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sequences sunburst</title>
+    <!--这个图表是展示访问某个网站页面的先后顺序-->
+    <script src="js/d3.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/sequence.css"/>
+  </head>
+  <body>
+  	
+    <div id="main">
+      <div id="sequence"></div><!--上面是访问先后顺序展示-->
+      <div id="chart"><!--中间图表区-->
+		        <div id="explanation"><!--中间的文字区域-->
+		          <span id="percentage"></span><br/><!--存放数据的位置-->
+		          of visits begin with this sequence of pages
+		        </div>
+      </div>
+    </div>
+         <!--右边的legend-->
+    <div id="sidebar">
+      <input type="checkbox" id="togglelegend"> Legend<br/>
+      <div id="legend"></div>
+    </div>
+   <script type="text/javascript" src="js/sequence.js"></script>
+  </body>
+</html>
